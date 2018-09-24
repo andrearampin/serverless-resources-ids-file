@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "Andrea Rampin"
+  },
+  "version": "0.1.0",
+  "description": "Output to a (JSON|YML) file the CloudFormation LogicalResourceIds and PhysicalResourceIds of its resources",
+  "main": "src/index.js",
+  "maintainers": [
+    {
+      "email": "andrea.rampin@gmail.com",
+      "name": "andrearampin"
+    }
+  ],
+  "name": "serverless-resources-ids-file",
+  "repository": {
+    "git": "https://github.com/andrearampin/serverless-resources-ids-file"
+  },
+  "dependencies": {
+    "yamljs": "~0.3"
+  },
+  "license": "MIT"
+}
